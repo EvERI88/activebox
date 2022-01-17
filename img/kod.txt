@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<html lang="en" dir="ltr">
+  <link rel="stylesheet" href="ggforever.css">
+    <link rel="stylesheet" href="ggj.css">
+  <head>
+    <meta charset="utf-8">
+    <title>New meta</title>
+  </head>
+  <body>
+
+  <header>
+
+
+
+
+<div class="containermain">
+
+<div class="gg">
+
+        <div class="containerstart"> <img  src="img\activebox-logo.png" alt="doptap"></div>
+
+         <nav >
+
+            <ul class="containerend">
+                <a href="#">FEATURES</a>
+                <a href="#">WORKS</a>
+                <a href="#">OUR TEAM</a>
+                <a href="#">TESTIMONIALS</a>
+                <a href="#">DOWNLOADS</a>
+            </ul>
+
+         </nav>
+
+  </div>
+  <hr>
+
+</div>
+<br><br>
+<div class="containermain">
+
+<div class="center"><h1> YOUR FAVORITE ONE PAGE</h1></div>
+<div class="center"><h1> MULTU PURPOSE TEMPLATE</h1></div>
+<br>
+<div class="center1"><h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna</h2></div>
+<div class="center1"><h2>vel scelerisque nisl consectetur et.</h2></div>
+<br><br><br>
+<div class="center">
+<br>
+<button class="button" type="button" name="button">FIND OUT MORE</button>
+
+</div>
+<br><br><br>
+</div>
+  </header>
+<br><br><br>
+    <main>
+<div class="containermain">
+  <div class="cock">
+
+
+  <div class="center7">
+    <img src="img\features\feature-1.png" alt="">
+
+
+   <h3>EASILY CASTOMISED</h3>
+
+
+
+ <h4>Cras justo odio, dapibus ac facilisis in, egestas eget
+ <p>
+ quam. Nullam quis risus eget urna mollis ornare ve
+<p>
+eu leo. Donec ullamcorper nulla non metus auctor
+</h4>
+</div>
+
+<div class="center7">
+  <img src="img\features\feature-2.png" alt="">
+
+
+ <h3>RESPONSIVE READY</h3>
+
+
+
+<h4>Cras justo odio, dapibus ac facilisis in, egestas eget
+<p>
+quam. Nullam quis risus eget urna mollis ornare ve
+<p>
+eu leo. Donec ullamcorper nulla non metus auctor
+</h4>
+</div>
+<div class="center7">
+  <img src="img\features\feature-3.png" alt="">
+
+
+ <h3>MODERN DESIGN</h3>
+
+
+
+<h4>Cras justo odio, dapibus ac facilisis in, egestas eget
+<p>
+quam. Nullam quis risus eget urna mollis ornare ve
+<p>
+eu leo. Donec ullamcorper nulla non metus auctor
+</h4>
+</div>
+
+
+</div>
+
+<br><br>
+
+<div class="containermain">
+  <div class="cock">
+
+
+  <div class="center7">
+    <img src="img\features\feature-4.png" alt="">
+
+
+   <h3>CLEAN CODE</h3>
+
+
+
+ <h4>Cras justo odio, dapibus ac facilisis in, egestas eget
+ <p>
+ quam. Nullam quis risus eget urna mollis ornare ve
+<p>
+eu leo. Donec ullamcorper nulla non metus auctor
+</h4>
+</div>
+
+<div class="center7">
+  <img src="img\features\feature-5.png" alt="">
+
+
+ <h3>READY TO SHIP</h3>
+
+
+
+    <h4>Cras justo odio, dapibus ac facilisis in, egestas eget
+    <p>
+    quam. Nullam quis risus eget urna mollis ornare ve
+    <p>
+    eu leo. Donec ullamcorper nulla non metus auctor
+</h4>
+</div>
+<div class="center7">
+    <img src="img\features\feature-6.png" alt="">
+    <h3>DOWNLOADN FOR FREE</h3>
+    <h4>Cras justo odio, dapibus ac facilisis in, egestas eget
+    <p>
+    quam. Nullam quis risus eget urna mollis ornare ve
+    <p>
+    eu leo. Donec ullamcorper nulla non metus auctor
+</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<br><br><br>
+
+  <div class="image">
+          <img src="img\works\work-1.jpg" alt="">
+          <img src="img\works\work-2.jpg" alt="">
+          <img src="img\works\work-3.jpg" alt="">
+          <img src="img\works\work-4.jpg" alt="">
+          <img src="img\works\work-5.jpg" alt="">
+          <img src="img\works\work-6.jpg" alt="">
+          <img src="img\works\work-7.jpg" alt="">
+         <img src="img\works\work-8.jpg" alt="">
+</div>
+
+<br><br>
+<div class="containermain">
+
+<div class="cock1">
+
+
+<div class="center8">
+  <img src="img\team\team-1.jpg" alt="">
+
+
+  <h2>Ruth Woods</h2>
+  <h3>Founder, CEO</h3>
+
+
+
+  <h4>Fusce dapibus, tellus ac cursus commodo,
+  <p>
+  tortor mauris condimentum nibh, ut
+  <p>
+  fermentum massa justo sit amet risus.
+  <p>
+  Maecenas sed diam eget risus varius blandit
+  <p>
+  sit amet non magna. Nullam quis risus eget
+  <p>
+  urna mollis ornare vel eu leo.
+</h4>
+<img class="icon" src="https://4hands.ru/wp-content/uploads/2018/04/vk.png" alt="">
+<img class="icon" src="https://toppng.com/uploads/preview/twitter-pink-logo-11549680639cgq019ryeg.png" alt="">
+<img class="icon" src="https://i.pinimg.com/originals/b5/dc/0f/b5dc0fe5d9998214e243c923bcb9f714.jpg" alt="">
+</div>
+
+<div class="center8">
+<img src="img\team\team-2.jpg" alt="">
+
+<h2>Timothy Reed</h2>
+<h3>CO-FOUNDER, DEVELOPER</h3>
+
+
+
+<h4>Fusce dapibus, tellus ac cursus commodo,
+<p>
+tortor mauris condimentum nibh, ut
+<p>
+fermentum massa justo sit amet risus.
+<p>
+Maecenas sed diam eget risus varius blandit
+<p>
+sit amet non magna. Nullam quis risus eget
+<p>
+urna mollis ornare vel eu leo.
+</h4>
+<img class="icon" src="https://4hands.ru/wp-content/uploads/2018/04/vk.png" alt="">
+<img class="icon" src="https://toppng.com/uploads/preview/twitter-pink-logo-11549680639cgq019ryeg.png" alt="">
+<img class="icon" src="https://i.pinimg.com/originals/b5/dc/0f/b5dc0fe5d9998214e243c923bcb9f714.jpg" alt="">
+</div>
+<div class="center8">
+<img src="img\team\team-3.jpg" alt="">
+
+
+<h2>Victoria Valdez</h2>
+<h3>UI DESIGNER</h3>
+
+
+
+<h4>Fusce dapibus, tellus ac cursus commodo,
+<p>
+tortor mauris condimentum nibh, ut
+<p>
+fermentum massa justo sit amet risus.
+<p>
+Maecenas sed diam eget risus varius blandit
+<p>
+sit amet non magna. Nullam quis risus eget
+<p>
+urna mollis ornare vel eu leo.
+</h4>
+<img class="icon" src="https://4hands.ru/wp-content/uploads/2018/04/vk.png" alt="">
+<img class="icon" src="https://toppng.com/uploads/preview/twitter-pink-logo-11549680639cgq019ryeg.png" alt="">
+<img class="icon" src="https://i.pinimg.com/originals/b5/dc/0f/b5dc0fe5d9998214e243c923bcb9f714.jpg" alt="">
+</div>
+<div class="center8">
+<img src="img\team\team-4.jpg" alt="">
+
+
+<h2>Beverly Little</h2>
+<h3>DATA SCIENTIST</h3>
+
+
+
+<h4>Fusce dapibus, tellus ac cursus commodo,
+<p>
+tortor mauris condimentum nibh, ut
+<p>
+fermentum massa justo sit amet risus.
+<p>
+Maecenas sed diam eget risus varius blandit
+<p>
+sit amet non magna. Nullam quis risus eget
+<p>
+urna mollis ornare vel eu leo.
+</h4>
+<img class="icon" src="https://4hands.ru/wp-content/uploads/2018/04/vk.png" alt="">
+<img class="icon" src="https://toppng.com/uploads/preview/twitter-pink-logo-11549680639cgq019ryeg.png" alt="">
+<img class="icon" src="https://i.pinimg.com/originals/b5/dc/0f/b5dc0fe5d9998214e243c923bcb9f714.jpg" alt="">
+</div>
+
+</div>
+</div>
+<br><br><br><br><br><br>
+<div class="newimage">
+
+
+
+<img src="img\reviews\review-1.jpg" alt="">
+
+
+<div class="cherpostoto">
+  <h1>“Integer posuere erat a ante
+    <p>
+    venenatis dapibus posuere velit
+    <p>
+    aliquet. Donec sed odio dui.
+    <p>
+    Aenean eu leo quam...”
+  </h1>
+
+  <h2>
+    Susan Sims, Interaction Designer at XYZ
+</h2>
+</div>
+</div>
+<br><br><br>
+<div class="containermain">
+
+
+<div class="center99"><h1> Are You Ready to Start? Download Now For Free!</h1></div>
+<br>
+<div class="center90"><h2>Fusce dapibus, tellus ac cursus commodo</h2></div>
+
+<br><br><br>
+<div class="center">
+<br>
+<button class="button1" type="button" name="button">DOWNLOAD HERE</button>
+
+</div>
+<br><br><br>
+</div>
+   </main>
+   <br><br>
+   <footer>
+     <br>
+     <div class="containermain">
+       <div class="cock12">
+
+
+       <div class="centerlast">
+         <h2>LOCATION</h2>
+        <h3>3481 Melrose Place
+          <p>
+Beverly Hills, CA 90210
+</h3>
+     </div>
+
+     <div class="centerlast">
+       <h2>SHARE WITH LOVE</h2>
+       <img class="icon" src="https://4hands.ru/wp-content/uploads/2018/04/vk.png" alt="">
+       <img class="icon" src="https://4hands.ru/wp-content/uploads/2018/04/vk.png" alt="">
+       <img class="icon" src="https://4hands.ru/wp-content/uploads/2018/04/vk.png" alt="">
+
+</h3>
+   </div>
+
+     <div class="centerlast">
+       <h2>ABOUT ACTIVEBOX</h2>
+      <h3>Cras justo odio, dapibus ac facilisis in, egestas eget
+        <p>
+           quam. Donec ullamcorper nulla non metus auctor
+        <p>
+   fringilla.
+ </h3>
+   </div>
+   </div>
+   </div>
+     </div>
+
+ <br><br><br>
+
+   <div class="lastground">
+     <hr>
+ <br>
+
+     <div class="center100"><h1> Copyright © 2015 ActiveBox. All Rights Reserved
+       </h1></div>
+       <div class="center100"><h2> Made with love by Kamal Chaneman
+       </h2></div>
+       <br>
+   </div>
+
+
+   </footer>
+  </body>
+
+</html>
